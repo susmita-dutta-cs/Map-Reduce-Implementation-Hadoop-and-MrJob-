@@ -15,7 +15,6 @@ Implementing the Jaccard Distance function .
 Implementing the Cosine Similarity function for text.To vectorize the texts TF-IDF algorithm was used.
 
 4.Matrix Multiplication
-In the 4 MATRIX folder you will nd:
 1. A.txt: A matrix of 1000 rows and 50 columns
 2. B.txt: A matrix of 50 rows and 2000 columns
 3. C.txt: Dot product of A and B
